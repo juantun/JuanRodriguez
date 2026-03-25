@@ -6,7 +6,7 @@ Técnico Microinformático | Estudiante de AI Engineering en 4Geeks Academy
 
 ## 🚀 Sobre mí
 
-Soy técnico Microinformático y actualmente estoy en transición hacia el mundo de la Inteligencia Artificial.
+Soy técnico Microinformático y actualmente estoy en transición hacia el mundo de la **Inteligencia Artificial**
 
 Cuento con una base en sistemas y tecnología, lo que me permite entender cómo funcionan las soluciones desde lo técnico y aplicarlas a problemas reales.
 
@@ -34,7 +34,7 @@ Actualmente estoy enfocado en desarrollar habilidades en inteligencia artificial
 
 ## 💡 Proyectos
 
-- 🤖 Modelos de inteligencia artificial (en desarrollo)
+- 🤖 Modelos de **inteligencia artificial** (en desarrollo)
 - ⚙️ Scripts de automatización
 
 (Próximamente más proyectos...)
@@ -54,3 +54,5 @@ Convertirme en AI Engineer y participar en proyectos que integren tecnología, d
 ---
 
 ⚡ Siempre aprendiendo. Siempre construyendo.
+
+![juantun's Stats](https://github-readme-stats.vercel.app/api?username=juantun&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
