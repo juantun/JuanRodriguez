@@ -6,7 +6,7 @@ Técnico Microinformático | Estudiante de AI Engineering en 4Geeks Academy
 
 ## 🚀 Sobre mí
 
-Soy técnico informático y actualmente estoy en transición hacia el mundo de la Inteligencia Artificial.
+Soy técnico Microinformático y actualmente estoy en transición hacia el mundo de la Inteligencia Artificial.
 
 Cuento con una base sólida en sistemas y tecnología, lo que me permite entender cómo funcionan las soluciones desde lo técnico y aplicarlas a problemas reales.
 
