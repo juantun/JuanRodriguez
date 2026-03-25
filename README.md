@@ -1,6 +1,6 @@
 # 👋 Hola, soy Juan Rodriguez
 
-Técnico Informático | Estudiante de AI Engineering en 4Geeks Academy
+Técnico Microinformático | Estudiante de AI Engineering en 4Geeks Academy
 
 ---
 
